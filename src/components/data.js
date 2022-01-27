@@ -1,4 +1,4 @@
-export default [
+const data =  [
     {
         title: "Mount Fuji",
         location: "JAPAN",
@@ -27,3 +27,5 @@ export default [
         imageUrl: "Geirangerfjord.png"
     }
 ]
+
+export default data;
